@@ -15,7 +15,7 @@ This is a **Notepad UI** built entirely with `@rbxts/react` and `@rbxts/react-ro
 ```
 src/
   client/
-    hook.tsx      — Entry point, mounts the React tree to PlayerGui
+    main.client.tsx      — Entry point, mounts the React tree to PlayerGui
     components/
       Notepad.tsx         — The Notepad UI component
 ```
